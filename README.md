@@ -2,7 +2,7 @@
 <h2>Description</h2>
 Provides application with angular-frontend, spring-backend and postgresdb-database to manage ToDos. <br>
 <h2>Development Installatation</h2>
-1. git clone https://github.com/cnelir98/vs-frontend.git
+1. git clone https://github.com/cnelir98/vs-frontend.git<br>
 2. Switch into the root directory of the project <br>
 3. run: docker-compose up<br>
 4. open: http://localhost:4200/ <br>
