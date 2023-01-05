@@ -1,9 +1,10 @@
-# VsFrontend
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
+# Verteilte Systeme Projekt WS22/23
 
 # Development Installatation
 1. git clone https://github.com/cnelir98/vs-frontend.git
-2. npm i
-3. ng serve
+2. Switch into the root directory of the project
+3. run: docker-compose up
+
+<h1></h1>
+
 
